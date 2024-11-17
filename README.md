@@ -1,4 +1,5 @@
 # Aquitaine Simulation Arduino
+Auteur: JonhRVT
 
 List of sketches:
 
